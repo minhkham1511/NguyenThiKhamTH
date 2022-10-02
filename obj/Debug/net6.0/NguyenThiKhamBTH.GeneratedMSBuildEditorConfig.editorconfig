@@ -67,12 +67,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/PTPM/NguyenThiKhamBTH/Views/String/chuhoa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nXGNodWhvYS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [d:/PTPM/NguyenThiKhamBTH/Views/String/chuthuong.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nXGNodXRodW9uZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/PTPM/NguyenThiKhamBTH/Views/String/creat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nXGNyZWF0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [d:/PTPM/NguyenThiKhamBTH/Views/String/Index.cshtml]
@@ -85,6 +85,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [d:/PTPM/NguyenThiKhamBTH/Views/String/kytudauchuoi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nXGt5dHVkYXVjaHVvaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/PTPM/NguyenThiKhamBTH/Views/String/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nXFJlbW92ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [d:/PTPM/NguyenThiKhamBTH/Views/student/creat.cshtml]
